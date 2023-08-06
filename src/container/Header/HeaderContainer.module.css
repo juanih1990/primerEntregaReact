@@ -1,0 +1,31 @@
+.__logo {
+    width: 80px;
+    height: 45px;
+}
+
+.__containerFrom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+}
+
+.__containerHeader {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.form-control{
+   color: red !important;
+   
+}
+
+.__containerCarrito {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.__containerCarritoSvgCarrito{
+    margin: 1em;
+}
